@@ -54,5 +54,3 @@ Imagine you're working with Sprint, one of the biggest telecom companies in the 
 
 **17. Documentation:**
     - Document the entire process, including data sources, preprocessing steps, model architecture, and deployment procedures.
-
-Predicting customer churn is an ongoing process that requires collaboration between data scientists, business analysts, and domain experts. Regular updates and improvements to the model and retention strategies are essential to effectively reduce churn and improve customer satisfaction for Sprint.
